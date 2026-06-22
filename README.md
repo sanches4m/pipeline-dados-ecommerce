@@ -1,7 +1,7 @@
 # 📊 End-to-End Data Pipeline: Gestão de Estoque e Analytics para E-commerce
 
 ## 📌 Sobre o Projeto
-Este projeto consiste em uma arquitetura completa de dados (End-to-End) desenvolvida para automatizar a gestão de estoque e a análise financeira de um e-commerce de joias (LavourJoias). 
+Este projeto consiste em uma arquitetura completa de dados (End-to-End) desenvolvida para automatizar a gestão de estoque e a análise financeira de um e-commerce de joias e semijoias. 
 
 O pipeline substitui o controle manual isolado por um fluxo automatizado na nuvem, permitindo o rastreamento histórico de flutuação de produtos, análises de Business Intelligence e previsão de reposição de estoque (Curva ABC).
 
