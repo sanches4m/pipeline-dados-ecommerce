@@ -1,11 +1,11 @@
-# 📊 End-to-End Data Pipeline: Gestão de Estoque e Analytics para E-commerce
+## End-to-End Data Pipeline: Gestão de Estoque e Analytics para E-commerce
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 Este projeto consiste em uma arquitetura completa de dados (End-to-End) desenvolvida para automatizar a gestão de estoque e a análise financeira de um e-commerce de joias e semijoias. 
 
 O pipeline substitui o controle manual isolado por um fluxo automatizado na nuvem, permitindo o rastreamento histórico de flutuação de produtos, análises de Business Intelligence e previsão de reposição de estoque (Curva ABC).
 
-## 🏗️ Arquitetura e Tecnologias
+## Arquitetura e Tecnologias
 O projeto foi construído utilizando os conceitos de Engenharia de Dados (ETL) e Analytics Engineering:
 
 * **Origem dos Dados (Extract):** Google Sheets API (Input operacional diário).
@@ -19,7 +19,7 @@ O projeto foi construído utilizando os conceitos de Engenharia de Dados (ETL) e
   * Conexão direta com o BigQuery.
   * Modelagem dimensional e criação de métricas com DAX (Ex: Filtro dinâmico de "Última Carga", Valor Investido em Estoque).
 
-## 🚀 Como Executar o Pipeline
+## Como Executar o Pipeline
 1. Clone este repositório.
 2. Configure uma Service Account no Google Cloud Platform com acessos às APIs do Google Drive, Google Sheets e BigQuery.
 3. Insira o JSON da Service Account nas variáveis de ambiente (Secrets).
