@@ -1,4 +1,4 @@
-## End-to-End Data Pipeline: Gestão de Estoque e Analytics para E-commerce
+## End-to-End Data Pipeline: Gestão de Estoque e Análises para E-commerce
 
 ## Sobre o Projeto
 Este projeto consiste em uma arquitetura completa de dados (End-to-End) desenvolvida para automatizar a gestão de estoque e a análise financeira de um e-commerce de joias e semijoias. 
@@ -26,7 +26,7 @@ O projeto foi construído utilizando os conceitos de Engenharia de Dados (ETL) e
 4. Execute o notebook `pipeline_estoque_bq.ipynb` para realizar a carga dos dados.
 5. Atualize o relatório `.pbix` no Power BI para consumir os novos dados inseridos.
 
-## 📈 Impacto para o Negócio
+## Impacto para o Negócio
 * **Visibilidade Financeira:** Transformação de dados brutos de quantidade em valor financeiro real investido em tempo real.
 * **Histórico de Dados:** Criação de uma base sólida para futuras implementações de Machine Learning (previsão de demanda), saindo de uma visão "estática" para uma visão "temporal" do estoque.
 * **Automação:** Redução de horas manuais de compilação de dados e eliminação de erros humanos na geração de relatórios.
